@@ -13,3 +13,6 @@
 [submodule "simple-token/lib/openzeppelin-contracts"]
 	path = simple-token/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "escrow-project/lib/forge-std"]
+	path = escrow-project/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
